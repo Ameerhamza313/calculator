@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .text-center {
     text-align: center;
 }
@@ -28,4 +29,36 @@
 
 .operator{
     color: rgb(21, 164, 8);
+=======
+.text-center {
+    text-align: center;
+}
+
+.bg-red {
+    background: red;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.back{
+    background-color: orange;
+}
+
+.operator{
+    color: rgb(21, 164, 8);
+>>>>>>> 3e61ece02c99d5cc21cc0b4192170d01679b9592
 }
