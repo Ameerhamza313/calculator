@@ -6,32 +6,8 @@
     background: red;
 }
 
-.mx-auto {
-    margin: auto;
-}
-
-.flex {
-    display: flex;
-}
-
-.flex-col {
-    flex-direction: column;
-}
-
-.items-center {
-    align-items: center;
-}
-
-.back{
+.back {
     background-color: orange;
-}
-
-.text-center {
-    text-align: center;
-}
-
-.bg-red {
-    background: red;
 }
 
 .mx-auto {
@@ -50,10 +26,6 @@
     align-items: center;
 }
 
-.back{
-    background-color: orange;
-}
-
-.operator{
+.operator {
     color: rgb(21, 164, 8);
 }
